@@ -1,2 +1,3 @@
 # Miniblog
-For ReThink I.T. Inc. Skills Test
+
+for skills test
